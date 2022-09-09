@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pipes\\Documents\\Desarrollo - Programación\\Backend\\.Net\\ProyectoCoreEscuela\\Proyecto Version Oficial\\CoreSchoolProject\\CoreSchoolProject\\CoreSchoolProject.csproj": {}
+    "C:\\Users\\pipes\\Documents\\Desarrollo - Programación\\Backend\\.Net\\ProyectoCoreEscuela\\CoreSchoolProject\\CoreSchoolProject\\CoreSchoolProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pipes\\Documents\\Desarrollo - Programación\\Backend\\.Net\\ProyectoCoreEscuela\\Proyecto Version Oficial\\CoreSchoolProject\\CoreSchoolProject\\CoreSchoolProject.csproj": {
+    "C:\\Users\\pipes\\Documents\\Desarrollo - Programación\\Backend\\.Net\\ProyectoCoreEscuela\\CoreSchoolProject\\CoreSchoolProject\\CoreSchoolProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pipes\\Documents\\Desarrollo - Programación\\Backend\\.Net\\ProyectoCoreEscuela\\Proyecto Version Oficial\\CoreSchoolProject\\CoreSchoolProject\\CoreSchoolProject.csproj",
+        "projectUniqueName": "C:\\Users\\pipes\\Documents\\Desarrollo - Programación\\Backend\\.Net\\ProyectoCoreEscuela\\CoreSchoolProject\\CoreSchoolProject\\CoreSchoolProject.csproj",
         "projectName": "CoreSchoolProject",
-        "projectPath": "C:\\Users\\pipes\\Documents\\Desarrollo - Programación\\Backend\\.Net\\ProyectoCoreEscuela\\Proyecto Version Oficial\\CoreSchoolProject\\CoreSchoolProject\\CoreSchoolProject.csproj",
+        "projectPath": "C:\\Users\\pipes\\Documents\\Desarrollo - Programación\\Backend\\.Net\\ProyectoCoreEscuela\\CoreSchoolProject\\CoreSchoolProject\\CoreSchoolProject.csproj",
         "packagesPath": "C:\\Users\\pipes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pipes\\Documents\\Desarrollo - Programación\\Backend\\.Net\\ProyectoCoreEscuela\\Proyecto Version Oficial\\CoreSchoolProject\\CoreSchoolProject\\obj\\",
+        "outputPath": "C:\\Users\\pipes\\Documents\\Desarrollo - Programación\\Backend\\.Net\\ProyectoCoreEscuela\\CoreSchoolProject\\CoreSchoolProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pipes\\AppData\\Roaming\\NuGet\\NuGet.Config",
