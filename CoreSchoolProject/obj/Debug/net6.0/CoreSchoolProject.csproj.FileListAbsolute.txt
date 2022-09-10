@@ -13,3 +13,18 @@ C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEsc
 C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEscuela\Proyecto Version Oficial\CoreSchoolProject\CoreSchoolProject\obj\Debug\net6.0\CoreSchoolProject.pdb
 C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEscuela\Proyecto Version Oficial\CoreSchoolProject\CoreSchoolProject\obj\Debug\net6.0\CoreSchoolProject.genruntimeconfig.cache
 C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEscuela\Proyecto Version Oficial\CoreSchoolProject\CoreSchoolProject\obj\Debug\net6.0\ref\CoreSchoolProject.dll
+C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEscuela\CoreSchoolProject\CoreSchoolProject\bin\Debug\net6.0\CoreSchoolProject.exe
+C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEscuela\CoreSchoolProject\CoreSchoolProject\bin\Debug\net6.0\CoreSchoolProject.deps.json
+C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEscuela\CoreSchoolProject\CoreSchoolProject\bin\Debug\net6.0\CoreSchoolProject.runtimeconfig.json
+C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEscuela\CoreSchoolProject\CoreSchoolProject\bin\Debug\net6.0\CoreSchoolProject.dll
+C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEscuela\CoreSchoolProject\CoreSchoolProject\bin\Debug\net6.0\CoreSchoolProject.pdb
+C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEscuela\CoreSchoolProject\CoreSchoolProject\obj\Debug\net6.0\CoreSchoolProject.csproj.AssemblyReference.cache
+C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEscuela\CoreSchoolProject\CoreSchoolProject\obj\Debug\net6.0\CoreSchoolProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEscuela\CoreSchoolProject\CoreSchoolProject\obj\Debug\net6.0\CoreSchoolProject.AssemblyInfoInputs.cache
+C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEscuela\CoreSchoolProject\CoreSchoolProject\obj\Debug\net6.0\CoreSchoolProject.AssemblyInfo.cs
+C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEscuela\CoreSchoolProject\CoreSchoolProject\obj\Debug\net6.0\CoreSchoolProject.csproj.CoreCompileInputs.cache
+C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEscuela\CoreSchoolProject\CoreSchoolProject\obj\Debug\net6.0\CoreSchoolProject.dll
+C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEscuela\CoreSchoolProject\CoreSchoolProject\obj\Debug\net6.0\refint\CoreSchoolProject.dll
+C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEscuela\CoreSchoolProject\CoreSchoolProject\obj\Debug\net6.0\CoreSchoolProject.pdb
+C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEscuela\CoreSchoolProject\CoreSchoolProject\obj\Debug\net6.0\CoreSchoolProject.genruntimeconfig.cache
+C:\Users\pipes\Documents\Desarrollo - Programación\Backend\.Net\ProyectoCoreEscuela\CoreSchoolProject\CoreSchoolProject\obj\Debug\net6.0\ref\CoreSchoolProject.dll

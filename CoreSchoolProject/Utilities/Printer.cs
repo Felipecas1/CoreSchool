@@ -8,16 +8,16 @@ namespace CoreSchoolProject.Utilities
 {
     public static class Printer
     {
-        public static void DibujarLinea(int zise = 10)
+        public static void DrawLine(int zise = 10)
         {
-            Console.WriteLine("".PadLeft(zise, '='));
+            Console.WriteLine("".PadRight(zise, '='));
         }
 
         public static void WriteTittle(string titulo)
         {
-            DibujarLinea(titulo.Length + 4);
+            DrawLine(titulo.Length + 4);
             Console.WriteLine($"| {titulo} |");
-            DibujarLinea(titulo.Length + 4);
+            DrawLine(titulo.Length + 4);
         }
         
         public static void Beep(int hz = 2000, int time = 1000, int cantidad = 1)

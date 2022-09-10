@@ -5,7 +5,6 @@ using static System.Net.Mime.MediaTypeNames;
 public class EngineSchool
 {
     public School School { get; set; }
-    public int MyProperty { get; set; }
 
     public EngineSchool()
 	{
@@ -14,9 +13,7 @@ public class EngineSchool
 
 	public void Initialize()
     {
-        School = new School(name: "Platzi School",
-            year: 2012, SchoolType.Elementary,
-            city: "Bogotá", country: "Colombia");
+        School = new School(name: "Platzi School", year: 2012, SchoolType.Elementary, city: "Bogotá", country: "Colombia");
 
         UploadCourses();
         UploadSubjects();
@@ -25,6 +22,7 @@ public class EngineSchool
 
     private void UploadTests()
     {
+        var lista = new List<Test>();
         foreach (var course in School.Courses)
         {
             foreach (var subject in course.Subjects)
@@ -34,11 +32,11 @@ public class EngineSchool
                     Random random = new Random();
                     for (int i = 0; i < 5; i++)
                     {
-                        var test = new Tests();
+                        var test = new Test();
                         test.Subject = subject;
                         test.Name = $"{subject.Name} Test# {i + 1}";
-                        test.Student = student;
                         test.Calification = (float)(random.NextDouble() * 5);
+                        test.Student = student;
 
                         student.Tests.Add(test);
                     }
