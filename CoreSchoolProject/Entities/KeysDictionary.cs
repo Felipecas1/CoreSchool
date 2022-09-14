@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace CoreSchoolProject.Entities
 {
-    public class Subject : BaseSchoolObject
+    public enum KeyDictionary
     {
-
+        Course,
+        Student,
+        Subject,
+        School,
+        Test
     }
 }

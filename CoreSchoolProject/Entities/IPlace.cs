@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace CoreSchoolProject.Entities
 {
-    public class Subject : BaseSchoolObject
+    internal interface IPlace
     {
+        string Address { get; set; }
 
+        void CleanPlace();
     }
 }
